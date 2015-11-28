@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticNeuralNetwork.Core", "GeneticNeuralNetwork.Core\GeneticNeuralNetwork.Core.csproj", "{AD4BA2F5-1726-437F-A62B-33865647F5C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticNeuralNetwork.App", "GeneticNeuralNetwork.App\GeneticNeuralNetwork.App.csproj", "{CDB26190-BCF3-4D01-8DC9-45981C94D661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4BA2F5-1726-437F-A62B-33865647F5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4BA2F5-1726-437F-A62B-33865647F5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4BA2F5-1726-437F-A62B-33865647F5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4BA2F5-1726-437F-A62B-33865647F5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB26190-BCF3-4D01-8DC9-45981C94D661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB26190-BCF3-4D01-8DC9-45981C94D661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB26190-BCF3-4D01-8DC9-45981C94D661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB26190-BCF3-4D01-8DC9-45981C94D661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
